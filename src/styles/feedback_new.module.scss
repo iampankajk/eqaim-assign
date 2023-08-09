@@ -1,0 +1,275 @@
+.rectangleCopy3 {
+    position: absolute;
+    height: 95.91%;
+    width: 100%;
+    top: 4.09%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: #fff;
+  }
+  .rectangle {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-ghostwhite-100);
+  }
+  .feedbackTitle,
+  .group,
+  .rectangle {
+    position: absolute;
+    left: 0;
+  }
+  .group {
+    height: 45.28%;
+    width: 100%;
+    top: 54.72%;
+    right: 0;
+    bottom: 0;
+  }
+  .feedbackTitle {
+    top: calc(50% - 21px);
+    letter-spacing: -0.19px;
+  }
+  .addAShort {
+    position: absolute;
+    top: calc(50% + 1px);
+    left: 0;
+    color: var(--color-slategray);
+  }
+  .feedbackTitleParent {
+    position: absolute;
+    height: 39.62%;
+    width: 43.2%;
+    top: 0;
+    right: 56.8%;
+    bottom: 60.38%;
+    left: 0;
+    overflow: hidden;
+  }
+  .groupParent {
+    position: absolute;
+    height: 15.47%;
+    width: 84.44%;
+    top: 22.63%;
+    right: 7.78%;
+    bottom: 61.9%;
+    left: 7.78%;
+  }
+  .feedbackDetailParent,
+  .group1 {
+    position: absolute;
+    height: 62.34%;
+    width: 100%;
+    top: 37.66%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .feedbackDetailParent {
+    height: 27.27%;
+    width: 94.74%;
+    top: 0;
+    right: 5.26%;
+    bottom: 72.73%;
+    overflow: hidden;
+  }
+  .group3Copy2,
+  .rectangle2 {
+    position: absolute;
+    height: 22.48%;
+    width: 84.44%;
+    top: 60.58%;
+    right: 7.78%;
+    bottom: 16.93%;
+    left: 7.78%;
+  }
+  .rectangle2 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: #ad1fea;
+  }
+  .addFeedback {
+    position: absolute;
+    top: calc(50% - 9.5px);
+    left: 16.67%;
+  }
+  .rectangleParent {
+    position: absolute;
+    height: 6.42%;
+    width: 26.67%;
+    top: 87.74%;
+    right: 7.78%;
+    bottom: 5.84%;
+    left: 65.56%;
+    overflow: hidden;
+    color: var(--color-ghostwhite-200);
+  }
+  .rectangle3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-darkslateblue);
+  }
+  .cancel {
+    position: absolute;
+    top: calc(50% - 9.5px);
+    left: 25.81%;
+  }
+  .group14Copy {
+    position: absolute;
+    height: 6.42%;
+    width: 17.22%;
+    top: 87.74%;
+    right: 37.41%;
+    bottom: 5.84%;
+    left: 45.37%;
+    overflow: hidden;
+    color: var(--color-ghostwhite-200);
+  }
+  .feature {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: 5.26%;
+  }
+  .path2Icon {
+    position: absolute;
+    height: 12.75%;
+    width: 2.06%;
+    top: 44.36%;
+    right: 5.11%;
+    bottom: 42.89%;
+    left: 92.83%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .categoryParent,
+  .group2 {
+    position: absolute;
+    height: 45.28%;
+    width: 100%;
+    top: 54.72%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+  }
+  .categoryParent {
+    height: 39.62%;
+    width: 48.25%;
+    top: 0;
+    right: 51.75%;
+    bottom: 60.38%;
+    font-size: var(--font-size-sm);
+  }
+  .group3Copy {
+    position: absolute;
+    height: 15.47%;
+    width: 84.44%;
+    top: 41.61%;
+    right: 7.78%;
+    bottom: 42.92%;
+    left: 7.78%;
+    font-size: 15px;
+  }
+  .createNewFeedback {
+    position: absolute;
+    top: calc(50% - 262.5px);
+    left: 7.78%;
+    font-size: 24px;
+    letter-spacing: -0.33px;
+  }
+  .frameChild {
+    position: absolute;
+    height: 8.18%;
+    width: 10.37%;
+    top: 0;
+    right: 81.85%;
+    bottom: 91.82%;
+    left: 7.78%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .rectangleCopy3Parent {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 540px;
+    height: 685px;
+    overflow: hidden;
+  }
+  .goBack {
+    position: absolute;
+    top: calc(50% - 10px);
+    left: 25.99%;
+  }
+  .goBackParent,
+  .path2Icon1 {
+    position: absolute;
+    overflow: hidden;
+  }
+  .path2Icon1 {
+    height: 47.07%;
+    width: 6.22%;
+    top: 26.46%;
+    right: 93.78%;
+    bottom: 26.46%;
+    left: 0;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .goBackParent {
+    top: 0;
+    left: 0.33px;
+    width: 75.67px;
+    height: 20px;
+    color: var(--color-slategray);
+  }
+  .frameParent {
+    position: absolute;
+    top: 56px;
+    left: 114px;
+    width: 540px;
+    height: 745px;
+  }
+  .tabletNewFeedback {
+    position: relative;
+    background-color: var(--color-ghostwhite-100);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslateblue);
+    font-family: var(--font-jost);
+  }
+  
+
+  @media only screen and (min-width: 770px) {
+    .frameParent {
+     left: 250px;
+    }
+  }
+
+
+  @media only screen and (min-width: 1030px) {
+    .frameParent {
+     left: 450px;
+    }
+  }

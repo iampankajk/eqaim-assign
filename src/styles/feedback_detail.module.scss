@@ -1,0 +1,550 @@
+
+.rectangle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    width: 689px;
+    height: 151px;
+  }
+  .pathIcon {
+    height: 69.57%;
+    width: 40.91%;
+    top: 17.39%;
+    right: 59.09%;
+    bottom: 13.04%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .b,
+  .pathIcon,
+  .pathParent {
+    position: absolute;
+  }
+  .b {
+    width: 40.91%;
+    top: calc(50% - 11.5px);
+    left: 59.09%;
+    letter-spacing: -0.22px;
+    display: inline-block;
+  }
+  .pathParent {
+    height: 24.21%;
+    width: 7.04%;
+    top: 37.89%;
+    right: 0;
+    bottom: 37.89%;
+    left: 92.96%;
+    overflow: hidden;
+    text-align: center;
+  }
+  .addADark,
+  .itWouldHelp {
+    position: absolute;
+    left: 12.8%;
+  }
+  .addADark {
+    top: calc(50% - 47.5px);
+    font-size: var(--font-size-lg);
+    letter-spacing: -0.25px;
+  }
+  .itWouldHelp {
+    top: calc(50% - 17.5px);
+    color: var(--color-slategray);
+  }
+  .rectangle1 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-ghostwhite-200);
+  }
+  .b1,
+  .path2Icon,
+  .rectangle1 {
+    position: absolute;
+  }
+  .b1 {
+    top: calc(50% - 0.5px);
+    left: 27.5%;
+    letter-spacing: -0.18px;
+  }
+  .path2Icon {
+    height: 11.55%;
+    width: 23.54%;
+    top: 23.75%;
+    right: 37.4%;
+    bottom: 64.7%;
+    left: 39.07%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .rectangle2,
+  .rectangleParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .rectangleParent {
+    height: 55.79%;
+    width: 6.4%;
+    right: 93.6%;
+    bottom: 44.21%;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-smi);
+  }
+  .rectangle2 {
+    height: 100%;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    border-radius: var(--br-3xs);
+    background-color: #f2f4ff;
+  }
+  .feature {
+    position: absolute;
+    top: calc(50% - 10px);
+    left: 20.78%;
+    font-weight: 600;
+  }
+  .group,
+  .rectangleGroup {
+    position: absolute;
+    overflow: hidden;
+  }
+  .rectangleGroup {
+    height: 31.58%;
+    width: 12.32%;
+    top: 68.42%;
+    right: 74.88%;
+    bottom: 0;
+    left: 12.8%;
+    font-size: var(--font-size-smi);
+    color: var(--color-royalblue);
+  }
+  .group {
+    top: 28px;
+    left: 32px;
+    width: 625px;
+    height: 95px;
+  }
+  .group7Copy {
+    position: absolute;
+    top: 124px;
+    left: 39px;
+    width: 689px;
+    height: 151px;
+    font-size: var(--font-size-base);
+  }
+  .rectangle3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+  }
+  .jamesSkinner {
+    position: absolute;
+    top: calc(50% - 20px);
+    left: 0;
+    letter-spacing: -0.19px;
+  }
+  .jamesSkinnerParent,
+  .ovalIcon {
+    position: absolute;
+    height: 8.93%;
+    width: 15.52%;
+    top: 0;
+    right: 72.96%;
+    bottom: 91.07%;
+    left: 11.52%;
+    overflow: hidden;
+  }
+  .ovalIcon {
+    width: 6.4%;
+    right: 93.6%;
+    left: 0;
+    border-radius: 50%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .reply {
+    position: absolute;
+    top: calc(50% - 214px);
+    left: 94.72%;
+    font-size: var(--font-size-smi);
+    font-weight: 600;
+    color: var(--color-royalblue);
+  }
+  .secondThisI {
+    position: absolute;
+    width: 88.48%;
+    top: calc(50% - 167px);
+    left: 11.52%;
+    font-size: var(--font-size-mini);
+    color: var(--color-slategray);
+    display: inline-block;
+  }
+  .anneValentineParent,
+  .ovalIcon1 {
+    position: absolute;
+    height: 8.93%;
+    width: 16.16%;
+    top: 34.6%;
+    right: 65.12%;
+    bottom: 56.47%;
+    left: 18.72%;
+    overflow: hidden;
+  }
+  .ovalIcon1 {
+    width: 6.4%;
+    right: 86.4%;
+    left: 7.2%;
+    border-radius: 50%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .reply1 {
+    position: absolute;
+    top: calc(50% - 59px);
+    left: 94.72%;
+    font-size: var(--font-size-smi);
+    font-weight: 600;
+    color: var(--color-royalblue);
+  }
+  .whileWaitingFor {
+    color: var(--color-slategray);
+  }
+  .hummingbird1While {
+    position: absolute;
+    width: 81.28%;
+    top: calc(50% - 19px);
+    left: 18.72%;
+    font-size: var(--font-size-mini);
+    display: inline-block;
+    color: var(--color-darkviolet);
+  }
+  .ovalIcon2,
+  .ryanWellesParent {
+    position: absolute;
+    height: 8.93%;
+    width: 13.76%;
+    top: 69.2%;
+    right: 67.52%;
+    bottom: 21.88%;
+    left: 18.72%;
+    overflow: hidden;
+  }
+  .ovalIcon2 {
+    width: 6.4%;
+    right: 86.4%;
+    left: 7.2%;
+    border-radius: 50%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .reply2 {
+    position: absolute;
+    top: calc(50% + 96px);
+    left: 94.72%;
+    font-size: var(--font-size-smi);
+    font-weight: 600;
+    color: var(--color-royalblue);
+  }
+  .annev1990GoodPoinContainer {
+    position: absolute;
+    width: 81.28%;
+    top: calc(50% + 136px);
+    left: 18.72%;
+    font-size: var(--font-size-mini);
+    display: inline-block;
+    color: var(--color-darkviolet);
+  }
+  .rectangle4 {
+    position: absolute;
+    height: 59.6%;
+    width: 0.16%;
+    top: 14.06%;
+    right: 96.64%;
+    bottom: 26.34%;
+    left: 3.2%;
+    background-color: var(--color-slategray);
+    opacity: 0.1;
+    mix-blend-mode: normal;
+  }
+  .frameParent,
+  .rectangleCopy2 {
+    position: absolute;
+    width: 90.71%;
+    right: 4.64%;
+    left: 4.64%;
+  }
+  .frameParent {
+    height: 59.97%;
+    top: 35.61%;
+    bottom: 4.42%;
+    overflow: hidden;
+  }
+  .rectangleCopy2 {
+    height: 0.13%;
+    top: 31.19%;
+    bottom: 68.67%;
+    background-color: var(--color-lightslategray);
+    opacity: 0.25;
+    mix-blend-mode: normal;
+  }
+  .hexagonbestagon {
+    position: absolute;
+    top: calc(50% - 0px);
+    left: 0;
+    color: var(--color-slategray);
+  }
+  .elijahMossParent,
+  .ovalIcon3 {
+    position: absolute;
+    height: 32.52%;
+    width: 19.2%;
+    top: 0;
+    right: 69.28%;
+    bottom: 67.48%;
+    left: 11.52%;
+    overflow: hidden;
+  }
+  .ovalIcon3 {
+    width: 6.4%;
+    right: 93.6%;
+    left: 0;
+    border-radius: 50%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .reply3 {
+    position: absolute;
+    top: calc(50% - 51.5px);
+    left: 94.72%;
+    font-size: var(--font-size-smi);
+    font-weight: 600;
+    color: var(--color-royalblue);
+  }
+  .alsoPleaseAllow {
+    position: absolute;
+    width: 88.48%;
+    top: calc(50% - 4.5px);
+    left: 11.52%;
+    font-size: var(--font-size-mini);
+    color: var(--color-slategray);
+    display: inline-block;
+  }
+  .group7Copy1 {
+    position: absolute;
+    height: 16.47%;
+    width: 90.71%;
+    top: 10.44%;
+    right: 4.64%;
+    bottom: 73.09%;
+    left: 4.64%;
+    overflow: hidden;
+  }
+  .comments {
+    position: absolute;
+    top: calc(50% - 349.5px);
+    left: 4.93%;
+    font-size: var(--font-size-lg);
+    letter-spacing: -0.25px;
+  }
+  .rectangleContainer {
+    position: absolute;
+    top: 299px;
+    left: 39px;
+    width: 689px;
+    height: 747px;
+    overflow: hidden;
+  }
+  .goBack {
+    position: absolute;
+    top: calc(50% - 10px);
+    left: 25.99%;
+  }
+  .goBackParent,
+  .path2Icon1 {
+    position: absolute;
+    left: 0;
+    overflow: hidden;
+  }
+  .path2Icon1 {
+    height: 47.07%;
+    width: 6.22%;
+    top: 26.46%;
+    right: 93.78%;
+    bottom: 26.46%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .goBackParent {
+    top: 12px;
+    width: 75.67px;
+    height: 20px;
+  }
+  .rectangle5 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-royalblue);
+  }
+  .editFeedback {
+    position: absolute;
+    top: calc(50% - 9.5px);
+    left: 16.9%;
+  }
+  .groupDiv {
+    position: absolute;
+    top: 0;
+    left: 547px;
+    width: 142px;
+    height: 44px;
+    overflow: hidden;
+    color: var(--color-ghostwhite-200);
+  }
+  .frameGroup,
+  .rectangleCopy3 {
+    position: absolute;
+    left: 39px;
+    width: 689px;
+  }
+  .frameGroup {
+    top: 56px;
+    height: 44px;
+    color: var(--color-slategray);
+  }
+  .rectangleCopy3 {
+    top: 1070px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    height: 246px;
+  }
+  .rectangle6 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 5px;
+    background-color: var(--color-ghostwhite-100);
+  }
+  .typeYourComment {
+    position: absolute;
+    top: calc(50% - 24px);
+    left: 3.85%;
+  }
+  .rectangleParent1 {
+    position: absolute;
+    top: 1144px;
+    left: 73px;
+    width: 623px;
+    height: 80px;
+    overflow: hidden;
+    font-size: var(--font-size-mini);
+    color: var(--color-lightslategray);
+  }
+  .rectangle7 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-darkviolet);
+  }
+  .rectangleParent2 {
+    position: absolute;
+    top: 1240px;
+    left: 554px;
+    width: 142px;
+    height: 44px;
+    overflow: hidden;
+    color: var(--color-ghostwhite-200);
+  }
+  .addComment {
+    position: absolute;
+    top: 1094px;
+    left: 73px;
+    font-size: var(--font-size-lg);
+    letter-spacing: -0.25px;
+  }
+  .charactersLeft {
+    position: absolute;
+    top: 1251px;
+    left: 73px;
+    font-size: var(--font-size-mini);
+    color: var(--color-slategray);
+  }
+  .tabletFeedbackDetail {
+    position: relative;
+    background-color: var(--color-ghostwhite-100);
+    width: 100%;
+    height: 1436px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslateblue);
+    font-family: var(--font-jost);
+  }
+  
+
+  @media only screen and (min-width: 770px) {
+    .frameGroup,.group7Copy,.rectangleContainer,.rectangleCopy3,.rectangleParent2 {
+        left: 250px;
+       }
+   
+       .addComment,.charactersLeft{
+           left: 250px+33px;
+       }
+       .rectangleParent2{
+           left: 250px+483px+33px;
+       }
+       .rectangleParent1{
+           left: 250px+33px;
+       }
+  }
+
+
+  @media only screen and (min-width: 1030px) {
+    .frameGroup,.group7Copy,.rectangleContainer,.rectangleCopy3,.rectangleParent2 {
+     left: 450px;
+    }
+
+    .addComment,.charactersLeft{
+        left: 450px+33px;
+    }
+    .rectangleParent2{
+        left: 450px+483px+33px;
+    }
+    .rectangleParent1{
+        left: 450px+33px;
+    }
+  }
